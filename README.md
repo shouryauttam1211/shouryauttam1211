@@ -21,7 +21,7 @@
 - ⚡ Love exploring **open-source & real-world projects**
 - 🎯 Focused on writing clean, efficient, scalable code
 - ☕ Code + Gym + Repeat = My lifestyle
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **aviuttam1211@gmail.com**
 - ⚡ Fun fact: I love Basketball 🏀, Drawing 🎨, Travelling 🌍 and Coding 💻
 
 </td>
